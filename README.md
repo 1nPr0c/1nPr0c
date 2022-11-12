@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm 5ub34x 🏴‍☠️</h1>
+<h1 align="center">5ub34x</h1>
 <h4 align="center">Experienced Red Team Operator and Penetration Tester.</h4>
 <h4 align="center">Skilled in Cyber Security, Penetration Testing, Red Teaming and Purple Teaming.</h4>
 <br>
